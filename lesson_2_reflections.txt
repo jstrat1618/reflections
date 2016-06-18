@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	git is now able to track the files in the repository. So you can track the files in case you need to reference an old version. 
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+		The staging area is like the mail room, where you can organize your files for clearer, logical commits, like a mail room may sort mail that's going to the same location.
