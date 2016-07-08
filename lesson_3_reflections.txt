@@ -10,3 +10,6 @@ Why might you want to always pull changes manually rather than having Git automa
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	You can use git to identify potential conflicts, you can also try to forecast what potential changes other collaborators will make based on the changes they most recently made.
 	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Dropbox or Google Drive. It would be much harder because changes may overlap with people simultaneously working. 
+	
