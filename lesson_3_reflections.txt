@@ -6,5 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
   
  Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	Cloning is done on your local machine. Forking is done on GitHub.
-	
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	You can use git to identify potential conflicts, you can also try to forecast what potential changes other collaborators will make based on the changes they most recently made.
 	
