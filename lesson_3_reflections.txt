@@ -2,7 +2,7 @@ When would you want to create a remote repo rather than keeping all your work lo
     When you want other people to contribute to it remotely.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-  Because you may not want to introduce those changes. For example, you may accidently introduce a bug.
+  Because you may not want to introduce those changes. For example, you may accidentally introduce a bug.
   
  Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	Cloning is done on your local machine. Forking is done on GitHub.
@@ -13,3 +13,5 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Dropbox or Google Drive. It would be much harder because changes may overlap with people simultaneously working. 
 	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+		Whenever you want to keep a copy of the original code but you also want to build on that code. For example, you want to add a new feature to program, or create an alternate version of a program.
